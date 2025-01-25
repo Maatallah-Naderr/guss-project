@@ -1,0 +1,93 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=VT323&display=swap');
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+   
+
+   }
+   
+      
+ 
+/* *{
+
+  font-family: "Roboto", serif;
+ 
+} */
+
+   
+
+ 
+ header {
+    background-color: rgba(0, 0, 0, 0.842);
+    height: 250px;
+ }  
+ header button {
+    position: relative;
+    top: 0px;
+    color: black ;
+    background-color: white;
+    padding: 8px 15px;
+    border-radius: 8px;
+    margin-left: 5px;
+    
+
+ }
+ header h3 {
+    position: fixed;
+    right: 10px;
+    top: 0px;
+    color: white;
+ 
+ }
+ header h1{
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+ }
+ .ligne {
+    height: 1;
+    border-bottom:  solid color white;
+    width: 100%; 
+    
+    
+ } 
+ main {
+    height: 350px;
+    background-color:rgba(0, 0, 0, 0.842) ;
+    
+ }
+ .etiquette {
+    position: relative;
+    left: 650px;
+    bottom: 55px;
+    padding: 15px 30px;
+ }
+ .txt {
+    padding: 30Px 15px;
+ }
+.all{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   align-items: center;
+}
+.discription {
+   margin-right: 20px;
+   color: white;
+}
+.check {
+   position: relative;
+   top: 80px;
+   right: 150px;
+   padding: 15px 30px;
+   border-radius: 8px;
+}
+
+    
+
+
+
+
